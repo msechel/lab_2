@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author : Maxwell Sechelski
-# Date: 1/20/2019
+# Date: 1/31/2019
 # Script follows here:
 
 echo "Enter a number: "
